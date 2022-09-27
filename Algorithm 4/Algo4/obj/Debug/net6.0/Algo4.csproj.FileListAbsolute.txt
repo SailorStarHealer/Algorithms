@@ -1,0 +1,15 @@
+/Users/sopwithcamel/Projects/Algo4/Algo4/bin/Debug/net6.0/Algo4
+/Users/sopwithcamel/Projects/Algo4/Algo4/bin/Debug/net6.0/Algo4.deps.json
+/Users/sopwithcamel/Projects/Algo4/Algo4/bin/Debug/net6.0/Algo4.runtimeconfig.json
+/Users/sopwithcamel/Projects/Algo4/Algo4/bin/Debug/net6.0/Algo4.dll
+/Users/sopwithcamel/Projects/Algo4/Algo4/bin/Debug/net6.0/Algo4.pdb
+/Users/sopwithcamel/Projects/Algo4/Algo4/obj/Debug/net6.0/Algo4.csproj.AssemblyReference.cache
+/Users/sopwithcamel/Projects/Algo4/Algo4/obj/Debug/net6.0/Algo4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sopwithcamel/Projects/Algo4/Algo4/obj/Debug/net6.0/Algo4.AssemblyInfoInputs.cache
+/Users/sopwithcamel/Projects/Algo4/Algo4/obj/Debug/net6.0/Algo4.AssemblyInfo.cs
+/Users/sopwithcamel/Projects/Algo4/Algo4/obj/Debug/net6.0/Algo4.csproj.CoreCompileInputs.cache
+/Users/sopwithcamel/Projects/Algo4/Algo4/obj/Debug/net6.0/Algo4.dll
+/Users/sopwithcamel/Projects/Algo4/Algo4/obj/Debug/net6.0/refint/Algo4.dll
+/Users/sopwithcamel/Projects/Algo4/Algo4/obj/Debug/net6.0/Algo4.pdb
+/Users/sopwithcamel/Projects/Algo4/Algo4/obj/Debug/net6.0/Algo4.genruntimeconfig.cache
+/Users/sopwithcamel/Projects/Algo4/Algo4/obj/Debug/net6.0/ref/Algo4.dll
