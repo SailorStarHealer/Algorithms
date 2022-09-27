@@ -1,0 +1,15 @@
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/obj/Debug/net6.0/Algorithm.csproj.AssemblyReference.cache
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/obj/Debug/net6.0/Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/obj/Debug/net6.0/Algorithm.AssemblyInfoInputs.cache
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/obj/Debug/net6.0/Algorithm.AssemblyInfo.cs
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/obj/Debug/net6.0/Algorithm.csproj.CoreCompileInputs.cache
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/bin/Debug/net6.0/Algorithm
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/bin/Debug/net6.0/Algorithm.deps.json
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/bin/Debug/net6.0/Algorithm.runtimeconfig.json
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/bin/Debug/net6.0/Algorithm.dll
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/bin/Debug/net6.0/Algorithm.pdb
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/obj/Debug/net6.0/Algorithm.dll
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/obj/Debug/net6.0/refint/Algorithm.dll
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/obj/Debug/net6.0/Algorithm.pdb
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/obj/Debug/net6.0/Algorithm.genruntimeconfig.cache
+/Users/sopwithcamel/Projects/Algorithm/Algorithm/obj/Debug/net6.0/ref/Algorithm.dll
