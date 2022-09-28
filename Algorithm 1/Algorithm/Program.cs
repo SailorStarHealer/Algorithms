@@ -56,26 +56,9 @@
             }
             //SEND NEW LINE TO DISPLAY
             Console.ReadLine();
-    }
-
-    static void MyMethod(string fname)
-    {
-            //FOR y FROM - 10 to 10 DO
-            for (int y = -10; y <= 10; y++)
-        {
-
-
         }
 
 
 
 
-
-
-
     }
-
-
-
-  
-}

@@ -1,18 +1,17 @@
-﻿<Properties StartupConfiguration="{E7A2E5D6-7FD6-4D9A-B49F-91C8EC2940FF}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties StartupConfiguration="{F7A9505B-9D23-4C39-95FA-47C7B139E2F8}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Algo3/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithm/Program.cs">
     <Files>
-      <File FileName="Algo3/Program.cs" Line="50" Column="6" />
+      <File FileName="Algorithm/Program.cs" Line="62" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Algo3" expanded="True">
-            <Node name="Algo3" expanded="True" />
+          <Node name="Algorithm" expanded="True">
+            <Node name="Algorithm" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -21,6 +20,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Algo3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Algorithm PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

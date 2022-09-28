@@ -1,0 +1,15 @@
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/obj/Debug/net6.0/Algorythms2.csproj.AssemblyReference.cache
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/obj/Debug/net6.0/Algorythms2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/obj/Debug/net6.0/Algorythms2.AssemblyInfoInputs.cache
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/obj/Debug/net6.0/Algorythms2.AssemblyInfo.cs
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/obj/Debug/net6.0/Algorythms2.csproj.CoreCompileInputs.cache
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/bin/Debug/net6.0/Algorythms2
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/bin/Debug/net6.0/Algorythms2.deps.json
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/bin/Debug/net6.0/Algorythms2.runtimeconfig.json
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/bin/Debug/net6.0/Algorythms2.dll
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/bin/Debug/net6.0/Algorythms2.pdb
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/obj/Debug/net6.0/Algorythms2.dll
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/obj/Debug/net6.0/refint/Algorythms2.dll
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/obj/Debug/net6.0/Algorythms2.pdb
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/obj/Debug/net6.0/Algorythms2.genruntimeconfig.cache
+/Users/sopwithcamel/Projects/Algorythms2/Algorythms2/obj/Debug/net6.0/ref/Algorythms2.dll
